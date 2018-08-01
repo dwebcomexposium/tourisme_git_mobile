@@ -1,0 +1,7 @@
+.ep-form-wrap, .sr-form {
+    display: none;
+}
+
+#zone2 > div > div.article-content > table > tbody > tr:nth-child(1) > td:nth-child(2) {
+    font-weight: 400;
+}
