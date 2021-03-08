@@ -7771,6 +7771,6 @@ body.page-rubric #zone1  .block.block-page.edito img{
     width: 100%;
 }
 
-.semaine .page-rubric .edito {
+.semaine.page-rubric .edito {
     margin: 3.5em -.65em 0!important;
 }
