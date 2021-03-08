@@ -7770,3 +7770,7 @@ body.page-rubric #zone1  .block.block-page.edito img{
 .semaine li.mn-menu-item.mn-item-lvl-2 {
     width: 100%;
 }
+
+.semaine .page-rubric .edito {
+    margin: 3.5em -.65em 0!important;
+}
