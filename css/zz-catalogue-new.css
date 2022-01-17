@@ -1,0 +1,19 @@
+/*New catalog*/
+ 
+#catalog-v2 .bgTint {background-color: #1f9edd!important;}
+
+/*Mise en avant RS*/
+#catalog-v2 .CatalogCard-title.CatalogCard-title--premium {background: #1f9edd!important;}
+
+/*cacher encart présent sur */
+
+#catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {display: none !important;}
+
+/*Header catalogue Tourisme*/
+#catalog-v2 {padding-top: 200px;}
+
+
+/*header site Tourisme pour catalogue*/
+.catalogue .block.block-small.quicklinks.quicklinks-navigation.villes.paris {
+background-color: black;
+}
